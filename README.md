@@ -1,10 +1,18 @@
 # 👨‍💻 About Me  
 
-Hello! I'm **Hamed Elkhabery**, an experienced **Network Engineer** with over **3 years** of expertise in **network engineering** and **technical support**. I have a **Bachelor's degree in Information Technology** and hold certifications like **MCSA, CCNA, and (ISC)² Candidate**. I specialize in **network automation** using **Ansible** and have proficiency in **Python programming**.  
+Hello! I'm **Hamed Elkhabery**, an experienced **Network Engineer** with over **4 years** of expertise in **network engineering** and **technical support**. I have a **Bachelor's degree in Information Technology** and hold certifications like **MCSA, CCNA, and (ISC)² Candidate**. I specialize in **network automation** using **Ansible** and have proficiency in **Python programming**.  
 
 ## 💼 Professional Experience  
 
-### **IT Manager at Teletarget Company (Present)**  
+### **IT Team Leader at ALS - Alexandria Language School (Present)**  
+- Leading the IT team and overseeing all **network operations**.  
+- Managing **network devices, servers, and security infrastructure**.  
+- Implementing **firewall policies and network security measures**.  
+- Coordinating **IT projects, system upgrades, and virtualization**.  
+- Providing **technical support and training** to staff and users.  
+- Optimizing IT workflows and improving overall **IT efficiency**.  
+
+### **IT Manager at Teletarget Company**  
 - Overseeing IT infrastructure, ensuring **network security, performance, and scalability**.  
 - Managing **firewalls (Sophos, pfSense)** and implementing security policies.  
 - Configuring and optimizing **network devices** (Cisco switches, routers, and wireless access points).  
@@ -48,4 +56,4 @@ Hello! I'm **Hamed Elkhabery**, an experienced **Network Engineer** with over **
 
 🚀 I am passionate about **leveraging technology** to streamline networks, **enhance security**, and **optimize IT infrastructure**.  
 
-📩 **Feel free to connect or collaborate on exciting network-related projects!**  
+📩 **Feel free to connect or collaborate on exciting network-related projects!**
