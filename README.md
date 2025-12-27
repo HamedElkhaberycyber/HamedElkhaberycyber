@@ -1,6 +1,6 @@
 # 👨‍💻 About Me  
 
-Hello! I'm **Hamed Elkhabery**, an experienced **Network Engineer** with over **4 years** of expertise in **network engineering** and **technical support**. I have a **Bachelor's degree in Information Technology** and hold certifications like **MCSA, CCNA, and (ISC)² Candidate**. I specialize in **network automation** using **Ansible** and have proficiency in **Python programming**.  
+Hello! I'm **Hamed Elkhabery**, an experienced **Network Engineer** with over **4 years** of expertise in **network engineering** and **technical support**. I have a **Bachelor's degree in Information Technology** and hold certifications like **MCSA, CCNA, and cisco endpoint security and network defense certification **. I specialize in **network automation** using **Ansible** and have proficiency in **Python programming**.  
 
 ## 💼 Professional Experience  
 
